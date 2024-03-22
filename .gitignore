@@ -1,0 +1,7 @@
+pictures/*
+pictures2/*
+*.ipynb
+
+test/__pycache__
+*.pyc
+.vscode/settings.json
